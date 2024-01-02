@@ -92,7 +92,7 @@ The third function prints all the stops for the selected train on the chosen day
 ## Credits
 
 For a long time, I had to reverse-engineer the [rail.co.il](https://rail.co.il) site and crawl the data to create the
-database in a way that the app can work. However, recently, I found this repository with the unofficial API. It helped
+database in a way that the app can work. Fortunately, recently, I found this repository with the unofficial API. It helped
 me a lot and saved me a bunch of time, so kudos to @sh0oki!
 
 [Unofficial Israel-Rail-API](https://github.com/sh0oki/israel-rail-api)
